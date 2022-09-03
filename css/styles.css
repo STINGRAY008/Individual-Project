@@ -1,0 +1,45 @@
+h1, h2, p {
+    text-align: center;}
+
+h2 {
+    font-size: 35px;
+} 
+
+hr{
+    box-shadow: 0 4px 17px 2px rgba(0, 0, 0, 0.75);
+}
+body {
+    /*background-color: rgb(228,202,168);*/
+    background-image: url("../images/Background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fishMenu{
+    background-color: rgba(228, 202, 168, 0.70);
+    width: 80%;
+    max-width: 500px;
+    /*background-color: orange;*/ 
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+.fishItem p, .wholesaleItem p{
+    /*background-color: red;*/
+    display: inline-block;
+    font-weight: 400;
+    
+}
+.fishName {
+    /*background-color: red;*/
+    text-align: left;
+    width: 75%;
+    
+}
+
+.fishPrice, .wholesalePrice{
+    /*background-color: blue;*/
+    text-align: right;
+    width: 25%;
+}
