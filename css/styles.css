@@ -10,14 +10,14 @@ hr{
 }
 body {
     /*background-color: rgb(228,202,168);*/
-    background-image: url("../images/Background.jpg");
+    background-image: url("../images/many-seafood.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Roboto', sans-serif;
 }
 
 .fishMenu{
-    background-color: rgba(228, 202, 168, 0.70);
+    background-color: rgba(228, 202, 168, 0.75);
     width: 80%;
     max-width: 500px;
     /*background-color: orange;*/ 
